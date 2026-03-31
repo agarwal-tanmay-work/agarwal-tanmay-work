@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=Tanmay%20Agarwal&fontSize=50&fontColor=7aa2f7&fontAlignY=40&animation=twinkling&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=61&descSize=20&descColor=bb9af7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=45&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Tanmay+Agarwal!👋;Data+Science+%26+AI+Student;Passionate+About+Systems" alt="Typing Header" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Transforming+Data+into+Products;Co-Founder+%40+Beacon+AI;Undergrad+%40+Masters'+Union+%26+IIT+Guwahati" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Transforming+Data+into+Products;Co-Founder+%40+Beacon+AI;Undergrad+%40+Masters'+Union+%26+IIT+Guwahati" alt="Typing Subtitle SVG" />
 </div>
 
 ---
@@ -71,7 +69,7 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agarwal-tanmay-work&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agarwal-tanmay-work&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarwal-tanmay-work&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -80,10 +78,6 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwal-tanmay-work&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   
-  <br/><br/>
-  
-  <i>Contribution Grid (Snake Animation)</i><br/>
-  <img src="https://raw.githubusercontent.com/agarwal-tanmay-work/agarwal-tanmay-work/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <br/>
@@ -102,6 +96,6 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=20&section=footer" />
-</div>
+<p align="center">
+  <i>"Predicting the future isn't magic, it's artificial intelligence."</i>
+</p>
