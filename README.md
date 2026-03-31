@@ -81,7 +81,7 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
   <a href="https://github.com/agarwal-tanmay-work">
     <img src="https://img.shields.io/badge/GitHub-agarwal--tanmay--work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/tanmay-agarwal-959178368/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
