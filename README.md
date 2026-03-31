@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Tanmay%20Agarwal&fontSize=50&fontAlignY=40&animation=twinkling&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=61" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Tanmay%20Agarwal&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=61" />
 </div>
 
 <br/>
