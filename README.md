@@ -69,15 +69,7 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agarwal-tanmay-work&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarwal-tanmay-work&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwal-tanmay-work&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarwal-tanmay-work&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
