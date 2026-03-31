@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Tanmay%20Agarwal&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=61" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=Tanmay%20Agarwal&fontSize=50&fontColor=7aa2f7&fontAlignY=40&animation=twinkling&desc=Data%20Science%20%26%20Artificial%20Intelligence&descAlignY=61&descSize=20&descColor=bb9af7" />
 </div>
 
 <br/>
@@ -103,5 +103,5 @@ Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **M
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=20&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=20&section=footer" />
 </div>
