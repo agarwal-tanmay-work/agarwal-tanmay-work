@@ -1,93 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=45&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Tanmay+Agarwal!👋;Data+Science+%26+AI+Student;Passionate+About+Systems" alt="Typing Header" />
+
+# Hi, I'm Tanmay 👋
+
+**I build AI products that do real work.**
+
+Founder of [Teaser](https://www.useteaser.online) · Studying Data Science & AI at Masters' Union and IIT Guwahati · Gurugram, India
+
+[![Teaser](https://img.shields.io/badge/Teaser-useteaser.online-111111?style=for-the-badge)](https://www.useteaser.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-agarwal-959178368/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanmay_ag_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwal.tanmay.work@gmail.com)
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Transforming+Data+into+Products;Co-Founder+%40+Beacon+AI;Undergrad+%40+Masters'+Union+%26+IIT+Guwahati" alt="Typing Subtitle SVG" />
-</div>
-
 ---
 
-## 📋 Profile Summary
+## What I'm building
 
-Hi, I'm an Undergrad pursuing concurrent degrees in **Data Science & AI** at **Masters' Union** and **IIT Guwahati**. With a robust foundation in machine learning, system architecture, and product development, I specialize in engineering AI-driven solutions that solve real-world problems elegantly at scale.
+### [Teaser](https://www.useteaser.online): product videos that make themselves
 
-- 🔬 **Current Focus:** Researching and building NLP workflows and secure data systems.
-- 🚀 **Venture:** Co-Founder at **Beacon AI**, developing anonymous, privacy-first AI reporting chatbots.
-- 📈 **Trajectory:** Driven by a passion for scaling products and interpreting complex consumer data.
-- 📧 **Contact:** [agarwal.tanmay.work@gmail.com](mailto:agarwal.tanmay.work@gmail.com)
+Paste a link to your software. An AI agent uses it like a person, rehearses each step off camera, and films only what worked. Then it writes the script, adds a voiceover, captions and music, and edits a finished video.
 
----
+[**See what it makes →**](https://www.useteaser.online)
 
-## ⚙️ Core Technical Capabilities
+## Other things I've built
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Languages & Infrastructure</h3>
-      <div align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,docker,linux,git,github,vscode&perline=4" /></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI & Data Engineering</h3>
-      <div align="center">
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,fastapi,mysql,postgres,react,nodejs&perline=4" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Links |
+|---|---|---|
+| **Beacon AI** | Report corruption anonymously. It removes personal details and checks the evidence before a case is filed. | [Live](https://beaconai-system.vercel.app/) · [Code](https://github.com/agarwal-tanmay-work/Beacon-AI) |
+| **Vritti** | Finds 13 behavioural biases in a trader's Zerodha history and scores them out of 100. | [Live](https://vritti-behaviour.vercel.app) · [Code](https://github.com/agarwal-tanmay-work/vritti) |
+| **Atlas** | Maps past failures across fields to find the root causes they share. | [Live](https://atlas-frontend-44pl.onrender.com/) · [Code](https://github.com/agarwal-tanmay-work/atlas) |
+| **Patch Notes** | Flags outdated code in tutorials by checking it against current documentation. | [Code](https://github.com/agarwal-tanmay-work/patch-notes) |
+| **RetailMind AI** | Answers questions about sales data in plain English. | [Code](https://github.com/agarwal-tanmay-work/retailmind-agent-TanmayAgarwal) |
 
-<p align="center">
-  <b>Analytics & Platforms:</b> Tableau • Excel • Prompt Engineering • N8N • Analytics
-</p>
+## Open source
 
----
+Two security fixes merged into [Modelence](https://github.com/modelence/modelence) (YC S25):
 
-## 💼 Professional Experience & Leadership
+- [A WebSocket channel authorization bypass](https://github.com/modelence/modelence/pull/143)
+- [A missing OAuth state check](https://github.com/modelence/modelence/pull/142)
 
-*   **Co-Founder @ Beacon AI** *(Nov 2025 – Present)*
-    *   Spearheading an automated, encrypted corruption reporting system utilizing advanced NLP workflows.
-    *   Architecting privacy-centric AI chatbots with stringent PII redaction and secure fallbacks.
-*   **Founder @ The Home Basket** *(Apr 2024 – Nov 2024)*
-    *   Scaled a profitable dropshipping e-commerce operation, managing end-to-end supply chains.
-    *   Executed high-converting digital ad campaigns and optimized ROAS via deep behavioral analytics.
-*   **Data & AI Club Representative @ Masters' Union** *(2025)*
-    *   Hosting core technical events (e.g., CS50) and fostering an AI-driven community on campus.
+## Experience
 
----
+- **Founder, Teaser** · Apr 2026 to present
+- **Research Associate, KPMG** · Jul to Aug 2026
+- **Project Intern, Zaystack** · Feb to Apr 2026
+- **Founder, The Home Basket** · Apr to Nov 2024
 
-## 🔬 Featured Projects & Open-Source
+## Tools I use
 
-*   **Open-Source Bug Triage (YC-Backed Startups)** - Shipped self-initiated code PRs that were peer-reviewed and merged into production.
-*   **GovGuide AI** - Architected a multi-lingual, GenAI government services chatbot featuring localized document validation and dynamic workflows.
-*   **Corporate Data Visualizations (TCS Virtual Program)** - Engineered executive-grade Tableau dashboards to transform disparate datasets into strategic business insights.
-*   **Java Student Data Management System** - Built robust backend components optimizing arrays and looping mechanics for high-efficiency data processing.
-
----
-
-## 📊 Developer Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agarwal-tanmay-work&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:agarwal.tanmay.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email:-agarwal.tanmay.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/agarwal-tanmay-work">
-    <img src="https://img.shields.io/badge/GitHub-agarwal--tanmay--work-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tanmay-agarwal-959178368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <i>"Predicting the future isn't magic, it's artificial intelligence."</i>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
