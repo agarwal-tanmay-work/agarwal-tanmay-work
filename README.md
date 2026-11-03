@@ -29,10 +29,6 @@ Paste a link to your software. An AI agent uses it like a person, rehearses each
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/39d353/agarwal-tanmay-work" alt="Tanmay's GitHub contributions over the last year" width="100%">
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agarwal-tanmay-work/agarwal-tanmay-work/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/agarwal-tanmay-work/agarwal-tanmay-work/output/snake.svg" alt="A snake eating Tanmay's contribution graph" width="100%">
